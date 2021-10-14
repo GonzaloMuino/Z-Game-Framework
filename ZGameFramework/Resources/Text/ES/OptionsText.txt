@@ -1,0 +1,20 @@
+Opciones
+Gráficos
+Sonido
+Otros
+Salir
+Pantalla Completa
+Anchura Resolución
+Altura Resolución
+Min. Anchura Resolución: 1000
+Min. Altura Resolución: 800
+Musica
+Sonidos
+Idioma
+Restorar valores de fábrica
+Guardar Cambios?
+Si
+No
+Nota: Cambios en los gráficos requieren un reinicio
+Grid
+Field Animations

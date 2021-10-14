@@ -1,0 +1,32 @@
+//Textures
+
+//Title Textures
+1;Textures/Title/TitleSelector
+1;Textures/Title/TitleBorder
+
+//Option Textures
+1;Textures/Options/OptionsBackground
+1;Textures/Options/OptionsBoolOptionSelector
+1;Textures/Options/OptionsConfirmSelector
+1;Textures/Options/OptionsGraphicsSelector
+1;Textures/Options/OptionsGraphicsSeparator
+1;Textures/Options/OptionsOtherDefaultSelector
+1;Textures/Options/OptionsOtherSelector
+1;Textures/Options/OptionsOtherSeparator
+1;Textures/Options/OptionsSelector
+1;Textures/Options/OptionsSoundSelector
+1;Textures/Options/OptionsSoundSeparator
+1;Textures/Options/OptionsSoundSubSelector
+
+//Music
+//2;Music/MainTheme
+
+//Sounds
+3;Sounds/ChangeSelectionBeep
+3;Sounds/SelectionBeep
+
+//Fonts
+4;Fonts/ComputerFont
+
+//Mouse Pointer
+5;Textures/MousePointer

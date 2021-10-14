@@ -1,0 +1,20 @@
+Options
+Graphics
+Sound
+Other
+Exit
+Fullscreen
+Resolution Width
+Resolution Height
+Min. Resolution Width: 1000
+Min. Resolution Height: 800
+Music
+Sounds
+Language
+Reset to Default
+Save Changes?
+Yes
+No
+Note: Graphic changes require a restart
+Grid
+Field Animations
